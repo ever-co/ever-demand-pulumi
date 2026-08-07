@@ -67,7 +67,7 @@
 		"@pulumi/pulumi": "^2.8.2",
 		"dotenv": "^8.2.0",
 		"pg": "^8.3.0",
-		"uuid": "^8.3.0"
+		"uuid": "^8.3.2"
 	},
 	"config": {
 		"commitizen": {
